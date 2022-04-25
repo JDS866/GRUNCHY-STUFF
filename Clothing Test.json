@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GrunchBod1",
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "resourceId": "artifact:1986719970360296145",
+    "thumbnailUri": "https://cdn-content-ingress.altvr.com/uploads/artifact/image/1986719970360296145/BODY_FINAL.png"
+  }
+]
